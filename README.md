@@ -2,6 +2,30 @@
 
 A comprehensive budget management application designed for university students to track expenses, manage budgets, and monitor their financial health.
 
+---
+
+## How to Run the Application
+
+### 1. Install Dependencies
+
+Open a terminal in the project folder and run:
+
+npm install
+
+### 2. Start the Development Server
+
+npm run dev
+
+### 3. Open in Browser
+
+After running, you will see a local URL (usually):
+
+http://localhost:5173
+
+Open this in your browser to use the app.
+
+---
+
 ## Features
 
 ### Authentication
