@@ -101,3 +101,15 @@ Open this in your browser to use the app.
 - Category-based spending tracking
 - Visual budget status indicators
 - Quick action buttons for adding expenses and income
+
+---
+
+## Team Members
+
+| KU Number | Name | Role |
+|----------|------|------|
+| K2456741 | Jaiden Talampas | Manager |
+| K2371725 | Mohamed Ahmed | Analyst |
+| K2319879 | Damian Lopez | Designer |
+| K2423618 | Adam Bouaziz | Developer |
+| K2423994 | Abdirahman Isse | Tester |
